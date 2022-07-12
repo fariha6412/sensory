@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensory</string>
+    <string name="value">value</string>
+    <string name="title">title</string>
+    <string name="cardViewIcon">card_view_icon</string>
+    <string name="givePermission">Please give permissions to continue using the application.</string>
+</resources>
