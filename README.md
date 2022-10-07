@@ -19,7 +19,7 @@
 2. Resourses closing issue
 	- I was getting "resourse failed to closed" error and after researching a while I found out that it was due to subsequent close statement in the sqlite and also I forgot to close the cursor. Though It happens rarely I reduced to amount of opening and closing of the database.
 
-4. Notification wasn't not showing
+4. Notification wasn't showing
 	- Very requently updating the notification got itself blocked. So reduced the frequency by 1000 milliseconds. 
 
 5. Storage issue
@@ -44,6 +44,3 @@
    - While building this applicatioin, I came accross various faults, exceptions and challenges which I had never experienced before. I believe those made me learn lots of new theories.
 4. Refresh rate
    - I am still unaware of how it can be updated. Might research on it once again later.
- 
-### It was fun and frustrating building. Gave almost 24 hours in total(4 days) on this application still this little work has been done. I am ashamed.
-
